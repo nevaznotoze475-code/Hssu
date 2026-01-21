@@ -1,4 +1,4 @@
-TOKEN = "8255325121:AAGlQDXFKM83pCcxVm8G7OzD9w6dvHcji38" #токен-бота #https://t.me/BotFather
+TOKEN = "7154351713:AAHhaBNM5AUmYosR3zdFeaZBypSgOL_97AA" #токен-бота #https://t.me/BotFather
 
 API_I = 1234 # userbot для автовыдачи звёзд
 API_H ='1234' # userbot для автовыдачи звёзд
@@ -4166,3 +4166,4 @@ async def process_callback(callback_query: types.CallbackQuery):
 
 if __name__ == '__main__':
     executor.start_polling(dp, skip_updates=True, on_startup=on_startup)
+
