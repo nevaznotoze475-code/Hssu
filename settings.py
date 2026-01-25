@@ -4,7 +4,7 @@ admins_id = [
     8063185389
 ]
 
-SUBGRAM_TOKEN = "3eb29f0601c89c477b953f1e579bb5fe8cc27ed05f167c661b8a3114ca7506fe" # токен subgram
+SUBGRAM_TOKEN = "bdd6cb5fe3d4bbbd8eeba3eac44ecd0cdf123b6e7bbf756433769d880b482572" # токен subgram
 HIVIEWS_TOKEN = "UA6TXBT1RD0ZRAGRHRY5R"
 
 
@@ -34,3 +34,4 @@ required_subscription = []
 beta_url = ""
 
 beta_name = ""
+
