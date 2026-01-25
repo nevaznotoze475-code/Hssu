@@ -1,7 +1,6 @@
 TOKEN = "7154351713:AAHhaBNM5AUmYosR3zdFeaZBypSgOL_97AA" #сюда токен бота
 
 admins_id = [
-    5858391454
     8063185389
 ]
 
@@ -14,7 +13,7 @@ admin_link = "https://t.meSkwlqa"
 
 GIFT_AMOUNT = 0.3 # ежедневый гифт
 DAILY_COOLDOWN = 24 * 60 * 60 # не трогать
-DELAY_TIME = 160 # не трогать
+DELAY_TIME = 5000 # не трогать
 
 #основной канал
 channel_osn = "https://t.me/teamraz"
@@ -33,4 +32,5 @@ required_subscription = []
 
 #кнопка в старте по запросу
 beta_url = ""
+
 beta_name = ""
