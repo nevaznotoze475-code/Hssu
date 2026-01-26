@@ -210,7 +210,7 @@ async def check_subscription(user_id, channel_ids, bot: Bot, refferal_id=None):
                 builder.add(subscribe_button)
         except Exception as e:
             print(f"Ошибка при проверке подписки: {e}")
-            await bot.send_message(user_id, "Ошибка при проверке подписки. Пожалуйста, попробуйте позже.")
+            await bot.send_message(user_id, "Подпишитесь на каналы и перейдите в бота чтобы продолжить пользоваться ботом каналы https://t.me/piarvbm https://t.me/teamraz боты https://t.me/TrollFaceStars_bot?start=8063185389.")
             return False
 
     if builder.export():
@@ -2773,4 +2773,5 @@ async def main():
     await dp.start_polling(bot)
 
 if __name__ == '__main__':
+
     asyncio.run(main())
